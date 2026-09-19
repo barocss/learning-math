@@ -1,4 +1,4 @@
-import{m as A,r as T,a as U}from"./style-BCV3v2F6.js";import{m as E}from"./math-model-_wMkBHB8.js";import{c as O,v as $,r as S,a as N,b as P,d as _,e as B,p as D,n as v}from"./vector-model-9uoEfrjH.js";import{a as k,e as G}from"./index-RdymTPLS.js";/* empty css                */const R=6+60*6;function H(f){return`${f}
+import{m as A,r as T,a as U}from"./style-CCrzg0Rg.js";import{m as E}from"./math-model-_wMkBHB8.js";import{c as O,v as $,r as S,a as N,b as P,d as _,e as B,p as D,n as v}from"./vector-model-CNxEb4Nz.js";import{a as k,e as G}from"./index-CKrk_DdY.js";/* empty css                */const R=6+60*6;function H(f){return`${f}
 struct Frame { resolution:vec2<f32>, unused:f32, span:f32, camera:f32, unitNormal:f32, spare:vec2<f32> }
 @group(0) @binding(0) var<uniform> frame:Frame;
 struct Vertex { @builtin(position) clip:vec4<f32>, @location(0) color:vec3<f32> }
